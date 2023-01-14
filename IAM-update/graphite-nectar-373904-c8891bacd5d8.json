@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "graphite-nectar-373904",
+  "private_key_id": "c8891bacd5d8431bf24f6aa79d75980489788426",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6FKLZPhULvRQx\ngMEmTKok1RXPsU/Ab4tNhfyN7gCc6M8+pMMJoEnyJJV8h35KHZ43uGUWFTXg71yU\n7mPROv/eQl84Orq1KcJsjexKVGWtu+NG+ylxc9KoxshH4Bpq7HPayRy8NCdd7SyB\n9RXIzbZIkn4+06Sx1XjuyC9s2WllCD3KjUoLfswbM50qfDtrRJTLUWuPhqANMdWA\n8F/+ZBwRRbW6otIclvsB6bZjuGc16hKlCZGOj76GCyoudi3v/mN9EixLKi7vNivg\n+w4KmzF1sSeC9BJYD2qLzbqu0/1bUixWDi4c4LdBai5lAf6MmbsMCTEdBgQ5p+Ej\nQc/1/fTTAgMBAAECggEAJiv9jBsULihHcDA9byHi9VNQ+h4hghRfuzN1L5hXP9jy\nSqN57wuWn7mpgLY6zfFtd3i4I+ON/eqcT2Dn0RANVQbAicRicK90Vth2VHkjspQM\nd48mXUOpPz4n77alNLH0wjjnUCRSvw3cR3yDT4IDlreWdkTsUB6+hB1EvUuMN1Ez\nSq2jt6XZj6SktVAumdFiC/CH8LqxgbfAb9iMerz0Yc6R6oz9thXW4eyNPoNe4+G0\ntRJryS8YbY2/78KTExyx64YvE5OQzNMYTJUe+rjzCfd/KXyf7zikRUzIHgrBGZel\nFdmvxWWdAEF4BLFcr0X7O6NGQyiHEeyiZLgkRTp14QKBgQD2FJ1NwFKHePH2gIcD\nFgoSPmeM9AhbJ/fsnGWhbUyZwzH2mNsvvbqiyIxMHaK1qdu8D2rBHk9ylALUG2U9\n9kRqqz0bl9VAe6LazjABXKgqA0a2vsM7cmE/veGOd8mxhUNeJy30rW+Z6Sx87PJM\nA7mSSMpzH6qddKvN17F3O9eglQKBgQDBlNzl4DQXIhmn/2a2M0INm5Caacgb/Ef1\nslQgOju0mW1TQcqGDcAk5DhWVep6y/MPFg5Ou3M45CDo+TKMslySEKszGEerzBWe\nUE9JAeM6k4Agd35taF+SWwqc47vvlyEI4UjFmf5IuYlSmVIDaawWwZkKffOK04nR\nTt3xV2JdxwKBgBT0qnStlRmeThSs21KC9Paaw9y4B2Ij5DQNGYaGtUg+3Clg2QGW\nyacFJxVwTKPlxCWetnudpixeuGLxtkxxhWAEFx8bbfigzryNZH8pMdTqFIKJejy8\nv9VayTOFtfJdI+CHu50ji+ZyeexljTi19H6lnj/xiWkBP4Q3AxDhUrqFAoGADwvp\nF50Tr3ChGePKMgNN8QzUcowiV7qGRVy1GUQte94pFz2X5k+PTc7Haj6HWUAdBmEq\nf4gmbpeczz7/ZNxAQcI17GTIvVvBmmqXnw8cgGMSpHNlSk/Ajfmxm3xAEWFn2e7Y\n3zMXBsQVHmx4aXd/Ps2RfbVIhtPmdHRy391w8eUCgYBR2HRKaCOa0iNhghqN8FLM\neDCvdgvHsR6V0I+8WZU6wAOpLu5SZtqGGEAxeA/OqEcbmwizQI98vj2kcl17+Ae+\nqIN1teVdUZ0f1vKBazpCQizsWRRpvGBi7d/pVdJwGza09O+Uhc6XdxU9ys0zmKJ4\n2Kecm1I5teyR1ISGjgOssA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-agent@graphite-nectar-373904.iam.gserviceaccount.com",
+  "client_id": "106207494253511553008",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-agent%40graphite-nectar-373904.iam.gserviceaccount.com"
+}
